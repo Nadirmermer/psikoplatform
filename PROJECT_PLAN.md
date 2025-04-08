@@ -1,0 +1,3 @@
+# PsikoPlatform Projesi Geliştirme Planı (Yapay Zeka Odaklı - Supabase & Netlify)
+
+**Proje Tanımı:** PsikoPlatform, Türkiye'deki ruh sağlığı profesyonelleri ve danışanları bir araya getiren, Supabase (Backend/Veritabanı) ve Netlify (Frontend Hosting/Functions) üzerine kurulu bir pazar yeri platformudur. Profesyoneller için pratik yönetim araçları, danışanlar için uzman bulma, randevu alma, ruh hali takibi, test çözme ve ödeme işlevleri sunar. Web, iOS ve Android hedeflenmektedir (öncelik Web). Mümkün olan yerlerde çevrimdışı yetenekler eklenecektir.
